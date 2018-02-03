@@ -5,6 +5,9 @@
   <groupId>com.startcaft.springcloud</groupId>
   <artifactId>parent</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>../cloud114</module>
+  </modules>
   <packaging>pom</packaging>
 
   <name>parent</name>
