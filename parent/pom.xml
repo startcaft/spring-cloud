@@ -9,6 +9,7 @@
     <module>../cloud114</module>
     <module>../cloud-policstation</module>
       <module>../cloud-caller</module>
+      <module>../http-client-demo</module>
   </modules>
   <packaging>pom</packaging>
 
