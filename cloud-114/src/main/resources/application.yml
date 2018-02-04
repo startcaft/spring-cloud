@@ -13,7 +13,6 @@ eureka:
       defaultZone: http://slave2:8762/eureka
 
 
-
 ---
 
 # 端口

@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>../cloud114</module>
+    <module>../cloud-policstation</module>
+      <module>../cloud-caller</module>
   </modules>
   <packaging>pom</packaging>
 
