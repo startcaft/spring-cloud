@@ -1,0 +1,9 @@
+# 端口动态指定
+spring:
+  application:
+    name: cloud-police-station
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://slave1:8761/eureka,http://slave2:8762/eureka
