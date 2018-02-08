@@ -9,6 +9,7 @@
     <module>spring-lb-server</module>
     <module>spring-lb-provider</module>
     <module>spring-lb-caller</module>
+      <module>rest-template-info</module>
   </modules>
   <packaging>pom</packaging>
 
